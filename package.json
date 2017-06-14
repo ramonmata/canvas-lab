@@ -1,0 +1,16 @@
+{
+  "name": "canvas-lab",
+  "version": "0.0.1",
+  "description": "Personal lab for the Canvas Web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "html",
+    "lab"
+  ],
+  "author": "Ramón Mata",
+  "license": "MIT"
+}
